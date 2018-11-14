@@ -9,7 +9,7 @@ import { FormsModule } from '@angular/forms';
 export class TemplateFormComponent implements OnInit {
 
   usuario: any = {
-    nome: 'Loiane',
+    nome: null,
     email: 'loiane@gtoner.com'
   }
 
